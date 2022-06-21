@@ -1,18 +1,18 @@
 # html-css-js-project-boilerplate
 
 # html-part 
-<ol><li>I have only created Canvas Tag With inline css</li><ol>
-  
+<ul><li>I have only created Canvas Tag With inline css</li></ul>
+ 
   # CSS-Part
-  <ol
+  <ul
       <li>I have given its position Absolute</li>
        <li>Margin auto</li>
   <li>Its all side position 0</li>
-</ol>
+</ul>
 
 # JS-Part
 
-<ol>
+<ul>
   <li>select canvas element</li>
   <li>load sounds</li>
   <li>Create Ball Object</li>
@@ -23,4 +23,4 @@
   <li>draw circle, will be used to draw the ball</li>
   <li>Adding listening to the mouse by creating an Event of mouseover</li>
   <li>call the game function 50 times every 1 Sec</li>
-  </ol>
+  </ul>
